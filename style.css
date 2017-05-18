@@ -1,0 +1,18 @@
+#crousel {
+    position: center;
+    width: 400px;
+    height: 300px;
+    overflow: scroll;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+}
+ul {
+    all: none;
+    width: 2000px;
+}
+ul li {
+    width: 400px;
+    list-style: none;
+    float: left;
+}
