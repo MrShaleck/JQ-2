@@ -1,5 +1,4 @@
 #crousel {
-    position: center;
     width: 400px;
     height: 300px;
     overflow: scroll;
@@ -8,7 +7,6 @@
     border-color: black;
 }
 ul {
-    all: none;
     width: 2000px;
 }
 ul li {
